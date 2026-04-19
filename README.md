@@ -1,6 +1,5 @@
 # 💫 About Me:
-FULL STACK DEVELOPER
-
+Hi, I'm Luan (Ryan) — a Computer Science student at Cal State Fullerton passionate about building full-stack AI applications that solve real problems. I love exploring new technologies and learning by shipping things to production.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-luong-132776314/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luongryanll@gmail.com) 
